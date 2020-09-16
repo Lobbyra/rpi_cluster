@@ -31,7 +31,7 @@ Services planned :
 - Git server
 - DNS Server
 
-Services be fun to deploy for tests :
+Services could be fun to deploy for tests :
 - Pfsense
 - Webmail hosting
 - Minecraft Serveur
