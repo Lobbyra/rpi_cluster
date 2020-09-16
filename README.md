@@ -16,6 +16,8 @@ Services planned :
 - Telegraf that measure system metrics of the raspberry.
 - Grafana that will display metrics in influxDB with HTTPS
 - Nodejs code executors
+- VPN server
+- Git server
 
 Services be fun to deploy for tests :
 - Pfsense
