@@ -1,6 +1,6 @@
 # rpi_cluster
 
-![Imgur](https://imgur.com/d3DHAlx.jpg)
+![Imgur](https://imgur.com/a/PgiD3IG.jpg)
 
 ---
 
