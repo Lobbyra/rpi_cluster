@@ -27,3 +27,5 @@ Services be fun to deploy for tests :
 - Webmail hosting
 - Minecraft Serveur
 - Teamspeak server
+- Active directory (LDAP) that work with windows, linux and macos.
+- DHCP server
