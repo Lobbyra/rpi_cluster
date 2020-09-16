@@ -8,11 +8,11 @@ All this services have to be accessible by name_svc.hostrpi.com by proxy reversi
 
 Services planned :
 - FTPS
-- many wordpress / mariadb
+- many wordpress / mariadb with HTTPS
 - Python code executors
 - influxdb
 - Telegraf that measure system metrics of the raspberry.
-- Grafana that will display metrics in influxDB
+- Grafana that will display metrics in influxDB with HTTPS
 - Nodejs code executors
 
 Services be fun to deploy for tests :
